@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://syeduzair.netlify.app/</loc>
+    <lastmod>2025-09-24</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Example pages (update if you have them) -->
+  <url>
+    <loc>https://syeduzair.netlify.app/about.html</loc>
+    <lastmod>2025-09-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://syeduzair.netlify.app/portfolio.html</loc>
+    <lastmod>2025-09-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://syeduzair.netlify.app/contact.html</loc>
+    <lastmod>2025-09-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
